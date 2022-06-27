@@ -7,4 +7,5 @@ This is first line. This is second line. And the third.
 This is the second day practice
 
 New addition!!!
-Final sentence. This is it
+
+Final sentence. Is this it?
